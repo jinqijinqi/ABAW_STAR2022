@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2fa0238-4437-4d4b-b541-707dae895569" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2BsoRy6KdJ1yjbEZ6niWAGEqILZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="exceleditor.install" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/models" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\lhc\ABAW4\track1\models" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="create_lmdb" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="track1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dataloader" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataloader/create_lmdb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gettesttxt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="track1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dataloader" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataloader/gettesttxt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="track1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="track1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.create_lmdb" />
+        <item itemvalue="Python.gettesttxt" />
+        <item itemvalue="Python.train" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2fa0238-4437-4d4b-b541-707dae895569" name="Default Changelist" comment="" />
+      <created>1657704148778</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657704148778</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="340" y="77" key="#train" timestamp="1657897864089">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="340" y="77" key="#train/0.0.1280.680@0.0.1280.680" timestamp="1657897864089" />
+    <state width="1259" height="204" key="GridCell.Tab.-1.bottom" timestamp="1658387532985">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.-1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1658387532985" />
+    <state width="1259" height="204" key="GridCell.Tab.-1.center" timestamp="1658387532984">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.-1.center/0.0.1280.680@0.0.1280.680" timestamp="1658387532984" />
+    <state width="1259" height="204" key="GridCell.Tab.-1.left" timestamp="1658387532984">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.-1.left/0.0.1280.680@0.0.1280.680" timestamp="1658387532984" />
+    <state width="1259" height="204" key="GridCell.Tab.-1.right" timestamp="1658387532985">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.-1.right/0.0.1280.680@0.0.1280.680" timestamp="1658387532985" />
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1658394343369">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1658394343369" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1658394343368">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1658394343368" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1658394343368">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1658394343368" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1658394343369">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1658394343369" />
+    <state width="1259" height="204" key="GridCell.Tab.1.bottom" timestamp="1658390745320">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1658390745320" />
+    <state width="1259" height="204" key="GridCell.Tab.1.center" timestamp="1658390745320">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1658390745320" />
+    <state width="1259" height="204" key="GridCell.Tab.1.left" timestamp="1658390745320">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1658390745320" />
+    <state width="1259" height="204" key="GridCell.Tab.1.right" timestamp="1658390745320">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1658390745320" />
+    <state width="1230" height="200" key="GridCell.Tab.2.bottom" timestamp="1658390436095">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1230" height="200" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1658390436095" />
+    <state width="1230" height="200" key="GridCell.Tab.2.center" timestamp="1658390436095">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1230" height="200" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1658390436095" />
+    <state width="1230" height="200" key="GridCell.Tab.2.left" timestamp="1658390745320">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1230" height="200" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1658390745320" />
+    <state width="1230" height="200" key="GridCell.Tab.2.right" timestamp="1658390436095">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1230" height="200" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1658390436095" />
+    <state width="1230" height="200" key="GridCell.Tab.3.bottom" timestamp="1658390436059">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1230" height="200" key="GridCell.Tab.3.bottom/0.0.1280.680@0.0.1280.680" timestamp="1658390436059" />
+    <state width="1230" height="200" key="GridCell.Tab.3.center" timestamp="1658390436059">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1230" height="200" key="GridCell.Tab.3.center/0.0.1280.680@0.0.1280.680" timestamp="1658390436059" />
+    <state width="1230" height="200" key="GridCell.Tab.3.left" timestamp="1658390436059">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1230" height="200" key="GridCell.Tab.3.left/0.0.1280.680@0.0.1280.680" timestamp="1658390436059" />
+    <state width="1230" height="200" key="GridCell.Tab.3.right" timestamp="1658390436059">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1230" height="200" key="GridCell.Tab.3.right/0.0.1280.680@0.0.1280.680" timestamp="1658390436059" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1657897885992">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1657897885992" />
+    <state x="22" y="439" width="1244" height="265" key="dock-window-1" timestamp="1657898243696">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="22" y="439" width="1244" height="265" key="dock-window-1/0.0.1280.680@0.0.1280.680" timestamp="1657898243696" />
+    <state x="22" y="439" width="1244" height="265" key="dock-window-10" timestamp="1658388023314">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="22" y="439" width="1244" height="265" key="dock-window-10/0.0.1280.680@0.0.1280.680" timestamp="1658388023314" />
+    <state x="22" y="439" width="1244" height="265" key="dock-window-11" timestamp="1658389311611">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="22" y="439" width="1244" height="265" key="dock-window-11/0.0.1280.680@0.0.1280.680" timestamp="1658389311611" />
+    <state x="22" y="439" width="1244" height="265" key="dock-window-12" timestamp="1658389311611">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="22" y="439" width="1244" height="265" key="dock-window-12/0.0.1280.680@0.0.1280.680" timestamp="1658389311611" />
+    <state x="22" y="439" width="1244" height="265" key="dock-window-13" timestamp="1658389311611">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="22" y="439" width="1244" height="265" key="dock-window-13/0.0.1280.680@0.0.1280.680" timestamp="1658389311611" />
+    <state x="22" y="439" width="1244" height="265" key="dock-window-14" timestamp="1658389311611">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="22" y="439" width="1244" height="265" key="dock-window-14/0.0.1280.680@0.0.1280.680" timestamp="1658389311611" />
+    <state x="22" y="439" width="1244" height="265" key="dock-window-15" timestamp="1658389643035">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="22" y="439" width="1244" height="265" key="dock-window-15/0.0.1280.680@0.0.1280.680" timestamp="1658389643035" />
+    <state x="22" y="439" width="1244" height="265" key="dock-window-16" timestamp="1658390733004">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="22" y="439" width="1244" height="265" key="dock-window-16/0.0.1280.680@0.0.1280.680" timestamp="1658390733004" />
+    <state x="22" y="439" width="1244" height="265" key="dock-window-17" timestamp="1658390733004">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="22" y="439" width="1244" height="265" key="dock-window-17/0.0.1280.680@0.0.1280.680" timestamp="1658390733004" />
+    <state x="22" y="439" width="1244" height="265" key="dock-window-18" timestamp="1658390733004">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="22" y="439" width="1244" height="265" key="dock-window-18/0.0.1280.680@0.0.1280.680" timestamp="1658390733004" />
+    <state x="22" y="439" width="1244" height="265" key="dock-window-2" timestamp="1657898243696">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="22" y="439" width="1244" height="265" key="dock-window-2/0.0.1280.680@0.0.1280.680" timestamp="1657898243696" />
+    <state x="22" y="439" width="1244" height="265" key="dock-window-3" timestamp="1657898243696">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="22" y="439" width="1244" height="265" key="dock-window-3/0.0.1280.680@0.0.1280.680" timestamp="1657898243696" />
+    <state x="22" y="439" width="1244" height="265" key="dock-window-4" timestamp="1657898243696">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="22" y="439" width="1244" height="265" key="dock-window-4/0.0.1280.680@0.0.1280.680" timestamp="1657898243696" />
+    <state x="22" y="439" width="1244" height="265" key="dock-window-5" timestamp="1657898243696">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="22" y="439" width="1244" height="265" key="dock-window-5/0.0.1280.680@0.0.1280.680" timestamp="1657898243696" />
+    <state x="22" y="439" width="1244" height="265" key="dock-window-6" timestamp="1657898651922">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="22" y="439" width="1244" height="265" key="dock-window-6/0.0.1280.680@0.0.1280.680" timestamp="1657898651922" />
+    <state x="22" y="439" width="1244" height="265" key="dock-window-7" timestamp="1657898651922">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="22" y="439" width="1244" height="265" key="dock-window-7/0.0.1280.680@0.0.1280.680" timestamp="1657898651922" />
+    <state x="22" y="439" width="1244" height="265" key="dock-window-8" timestamp="1658387487552">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="22" y="439" width="1244" height="265" key="dock-window-8/0.0.1280.680@0.0.1280.680" timestamp="1658387487552" />
+    <state x="22" y="439" width="1244" height="265" key="dock-window-9" timestamp="1658388023314">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="22" y="439" width="1244" height="265" key="dock-window-9/0.0.1280.680@0.0.1280.680" timestamp="1658388023314" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1658386868566">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1658386868566" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/resnet.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="new_state_dict" />
+        <watch expression="self" />
+        <watch expression="self" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
